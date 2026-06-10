@@ -109,10 +109,10 @@ Environments progress from static and structured to dynamic and unstructured as 
 
 ## Preliminary Results
 
-> **EKF - Sensor Fusion**
+# **EKF - Sensor Fusion**
 <img width="1080" height="1080" alt="Image" src="https://github.com/user-attachments/assets/14b25260-6ae5-473e-b367-32c500bd8387" />
 
-> **SAC - Sensor Fusion**
+# **SAC - Sensor Fusion**
 <img width="1333" height="973" alt="Image" src="https://github.com/user-attachments/assets/cd3f0690-341f-492d-adc2-2a67906e8862" />
 
 ---
